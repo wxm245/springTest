@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:wangxm="http://www.wangxm.com/schema/mytag"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.wangxm.com/schema/mytag http://www.wangxm.com/schema/mytag.xsd">
+
+    <wangxm:user id="wangxm" userName="wangxm" email="wangxm@123.com"/>
+</beans>
