@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T03:29:03.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2njU6VadMIx3HQ12y9kV" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T03:48:18.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vmvJ-NU9b1zYNFGqPnXX" version="20.8.23" type="github">
   <diagram name="第 1 页" id="4pP0lpbDHE4fTJNGHLhw">
-    <mxGraphModel dx="1735" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IjWpDjFK4nKPUFHOdYXk-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-200" width="30" height="60" as="geometry" />
+          <mxGeometry x="245" y="-120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IjWpDjFK4nKPUFHOdYXk-13" value="Order" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
@@ -74,16 +74,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IjWpDjFK4nKPUFHOdYXk-49" value="网关" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-60" width="770" height="200" as="geometry" />
+          <mxGeometry x="130" y="-10" width="770" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IjWpDjFK4nKPUFHOdYXk-51" value="gateway" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="IjWpDjFK4nKPUFHOdYXk-49">
-          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IjWpDjFK4nKPUFHOdYXk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IjWpDjFK4nKPUFHOdYXk-51" target="IjWpDjFK4nKPUFHOdYXk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IjWpDjFK4nKPUFHOdYXk-56" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="530" width="770" height="200" as="geometry" />
+        <mxCell id="IjWpDjFK4nKPUFHOdYXk-56" value="DB" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="770" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
